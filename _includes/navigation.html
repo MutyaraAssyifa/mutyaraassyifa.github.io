@@ -1,4 +1,8 @@
- <nav>
-    <a href="/">Home</a>
-    <a href="/friends.html">friends</a>
- </nav> 
+<nav class="navbar">
+  <ul>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/friends' | relative_url }}">Friends</a></li>
+      <li><a href="{{ '/blog' | relative_url }}">Blog</a></li>
+  </ul>
+</nav>
+ 
