@@ -12,7 +12,7 @@ permalink: /friends/
         <li><a href="https://alisyateriana.github.io/" target="_blank">Alisya Teriana</a></li>
         <li><a href="https://allysahumaira.github.io/" target="_blank">Allysa Humaira</a></li>
         <li><a href="https://amirullah310.github.io/" target="_blank">Amirullah</a></li>
-        <li><a href="https://anandaputrinabilla.github.io/" target="_blank">Ananda Putri Nabilla</a></li>
+        <li><a href="https://anandaaputrinabilla.github.io/" target="_blank">Ananda Putri Nabilla</a></li>
         <li><a href="https://angginabilabatubara.github.io/" target="_blank">Anggi Sya’ban Nabila Batu Bara</a></li>
         <li><a href="https://balqismisyia.github.io/" target="_blank">Balqis Misyia</a></li>
         <li><a href="https://cutyumnaassyifa22.github.io/" target="_blank">Cut Yumna Assyifa</a></li>
