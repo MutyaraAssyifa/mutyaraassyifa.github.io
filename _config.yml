@@ -1,9 +1,1 @@
-title: Home
-baseurl: "" # kalau di root, biarkan kosong
-url: "https://mutyaraassyifa.github.io/" # ganti sesuai username kamu
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-theme: null
+url: "https://mutyaraassyifa.github.io/"
