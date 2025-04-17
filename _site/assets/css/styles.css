@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding-top: 80px; /* cukup untuk navbar */
   background: linear-gradient(135deg, #ee859a, #ff99ac);
-  font-family: "poppins", sans-serif;
+  font-family: "comic sans ms";
   min-height: 100vh;
   overflow: visible;
 }
