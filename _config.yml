@@ -1,1 +1,8 @@
 url: "https://mutyaraassyifa.github.io/"
+
+
+
+plugin:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
